@@ -104,7 +104,8 @@ body {
 }
 .slide:nth-child(2) {
   background: url('./images/Sekhmet.jpeg') no-repeat
-    center top/cover;
+    center right/cover;
+   
 }
 .slide:nth-child(3) {
   background: url('./images/Keops.jpeg') no-repeat
@@ -115,9 +116,8 @@ body {
     center top/cover;
 }
 .slide:nth-child(5) {
-  background: url('./images/closeupSekhmet.jpeg') no-repeat
-    center top/cover;
-
+  background: url('./images/SekhmetDoorway.jpeg') no-repeat
+  bottom/cover;
 } 
  .slide:nth-child(6)  {
   background: url('./images/BastetCloset.jpeg') no-repeat
@@ -125,6 +125,6 @@ body {
 } 
 
 .slide:nth-child(7)  {
-    background: url('./images/roadtrip.jpeg') no-repeat
+    background: url('./images/closeupSekhmet.jpeg') no-repeat
       center center/cover;
   } 
